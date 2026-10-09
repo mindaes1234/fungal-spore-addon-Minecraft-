@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fungal Spore Addon Resource Pack",
+    "description": "Resource pack for fungal spore entities",
+    "uuid": "9ce929fd-39cd-4e8b-9a94-6989c7bf7de8",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a6b5d43d-7af0-4b30-8dbd-9d430f87dcd1",
+      "version": [1, 0, 0]
+    }
+  ]
+}

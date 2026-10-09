@@ -1,0 +1,24 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "spore:baio",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/spore_baio"
+      },
+      "geometry": {
+        "default": "geometry.spore_baio"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#3b7a4a",
+        "overlay_color": "#d5f2a8"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "spore:husk",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/spore_husk"
+      },
+      "geometry": {
+        "default": "geometry.spore_husk"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#7f5a2b",
+        "overlay_color": "#d7c3a0"
+      }
+    }
+  }
+}

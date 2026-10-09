@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fungal Spore Addon Behavior Pack",
+    "description": "Behavior pack for fungal spore entities",
+    "uuid": "2a1d4f6d-5a0f-44f2-b1c8-45c6f0e2d91a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "8a7be4dd-f227-4f61-9b1b-1ed7cd1d8391",
+      "version": [1, 0, 0]
+    }
+  ]
+}

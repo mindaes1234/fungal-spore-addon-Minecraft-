@@ -1,0 +1,24 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "spore:griefer",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/spore_griefer"
+      },
+      "geometry": {
+        "default": "geometry.spore_griefer"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#3e403a",
+        "overlay_color": "#99f98a"
+      }
+    }
+  }
+}

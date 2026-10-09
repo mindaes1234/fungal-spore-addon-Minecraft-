@@ -1,0 +1,24 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "spore:human",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/spore_human"
+      },
+      "geometry": {
+        "default": "geometry.spore_human"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#6b7b53",
+        "overlay_color": "#c9e4ad"
+      }
+    }
+  }
+}
